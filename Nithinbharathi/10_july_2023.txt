@@ -1,0 +1,10 @@
+Last session got a basic intro about Dart.
+Learnt about the data types in dart and then learnt to create a function in dart.
+Then had a GD with the interns
+The GD is about SnapAds.
+First Hari Shruthi started the GD by talking about the advantages of snapads
+then manish add the trust issues faced
+then i summarized their.
+Selva compared the reality and virtual thing.
+
+Finally the interns go ta brief idea about both Youtrythis and SnapAds.
